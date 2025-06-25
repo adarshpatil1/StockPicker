@@ -1,8 +1,0 @@
-yfinance
-pandas
-numpy
-ta
-scikit-learn
-mlflow
-lightgbm
-seaborn
