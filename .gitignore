@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+env*/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and debug info
+*.log
+
+# VS Code settings
+.vscode/
+
+# Data files (if too large or private)
+data/raw/
+data/interim/
+*.csv
+
+# ML artifacts
+mlruns/
+models/
+*.pkl
+*.joblib
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Results and images (optional — remove if you want to keep in Git)
+results/*.png
+
+# OS junk
+.DS_Store
+Thumbs.db
